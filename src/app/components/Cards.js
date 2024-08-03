@@ -25,7 +25,7 @@ export default function Cards() {
             </div>
           </div>
           <div className="flex md:pt-7 md:pb-6 md:ps-6 md:pe-[20px] p-4 border border-borderColor rounded-lg max-w-full w-full lg:max-w-[calc(33%_-12px)] md:max-w-[calc(50%_-12px)] xl:max-w-[calc(25%_-30px)] min-w-[calc(25%_-30px)] gap-4">
-            <Image src={"/assets/cards/2.svg"} width={85} height={85} />
+            <Image src={"assets/cards/2.svg"} width={85} height={85} />
             <div className="flex flex-col">
               <h4>
                 <span className="text-lg	md:text-2xl text-blue pb-2 font-semibold mb-5 relative after:absolute after:left-0 after:bottom-0 after:bg-black after:h-[1px] after:w-[100px] after:content-['']">
